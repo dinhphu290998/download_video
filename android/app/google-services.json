@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018762567556",
+    "project_id": "snapvideo-a2817",
+    "storage_bucket": "snapvideo-a2817.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018762567556:android:346217990d0a282a9ec7d1",
+        "android_client_info": {
+          "package_name": "com.ndp.snapvideo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqkxwvzzY0Xs5loBWc4JBLjOn9PL7OuYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

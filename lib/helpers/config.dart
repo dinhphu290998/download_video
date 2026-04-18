@@ -7,7 +7,7 @@ class Config {
   /// ================= DEFAULT VALUES =================
   static const Map<String, dynamic> _defaultValues = {
     // Interstitial
-    "interstitial_ad": "ca-app-pub-9021132987511379/4541538592",
+    "interstitial_ad": "ca-app-pub-9021132987511379/2176197301",
     "interstitial_start_ad": "ca-app-pub-9021132987511379/4597378913",
     "interstitial_get_start_ad": "ca-app-pub-9021132987511379/1466318110",
     "interstitial_select": "ca-app-pub-9021132987511379/2176197301",
